@@ -1,0 +1,19 @@
+{
+  "name": "realtime-game-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igabesz/realtime-game-dev.git"
+  },
+  "author": "imre.gabesz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igabesz/realtime-game-dev/issues"
+  },
+  "homepage": "https://github.com/igabesz/realtime-game-dev#readme"
+}
